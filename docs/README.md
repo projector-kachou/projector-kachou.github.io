@@ -30,7 +30,7 @@ Social networks pretend to build intentional communities, but they don't. They p
 
 Schools and colleges would like to be thought of as learning communities. Their priority, like all institutions, are perpetuation of the institution itself. If this involves teaching students, then they teach students. If this involves some other, more direct method*, then they use that.
 
-*(*for instance, nypothetically, if they were paid to close down for 2 years, and pretend to 'teach remotely', to sell the idea of a deadly cold, or something equally ridiculous.)
+*(*for instance, nypothetically, if they were paid to close down for 2 years, and pretend to 'teach remotely', or something equally implausible.)*
 
 So the idea is to use Projector to put a group of people together, and have the software reinforce regular collaboration and helping each other.
 
