@@ -20,6 +20,7 @@ The initial goal is to bootstrap a team communication application. Once that wor
 ## I need a blurb to put on my resume or something.
 
 OK.
+
 `Projector aims to build an intentional community for programming training and project oversight. It will be used to build web applications serving specific communities and their needs. The Projector team prioritizes respect for users' privacy and freedoms.`
 
 ## But, seriously, what is it actually supposed to do.
@@ -28,10 +29,10 @@ An *intentional community* is just a team of people who have a common goal (inte
 
 Social networks pretend to build intentional communities, but they don't. They prioritize selling ads and user data, with serving the users as a distant third.
 
-Schools and colleges would like to be thought of as learning communities. Their priority, like all institutions, are perpetuation of the institution itself. If this involves teaching students, then they teach students. If this involves some other, more direct method*, then they use that.
+Schools and colleges would like to be thought of as learning communities. Their priority, like all institutions, are perpetuation of the institution itself. If this involves teaching students, then they teach students. If this involves some other, more direct method, then they use that.
 
-*(*for instance, nypothetically, if they were paid to close down for 2 years, and pretend to 'teach remotely', or something equally implausible.)*
+*(for instance, if they were paid to close down for 2 years, and pretend to 'teach remotely', or something equally implausible. The point is, don't trust institutions.)*
 
-So the idea is to use Projector to put a group of people together, and have the software reinforce regular collaboration and helping each other.
+TLDR: the idea is to use Projector to put a group of people together, and have the software reinforce regular collaboration and helping each other.
 
 How it will do that I'll get to in a later post.
