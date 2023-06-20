@@ -8,7 +8,6 @@ The point is to avoid *nominalizations*. A "project" is a *thing*, but it's not.
 
 The question then becomes: What are you projecting? What do you want to project?
 
-## No, really, what the f#ck is this project?
 
 The initial goal is to bootstrap a team communication application. Once that works, we build something bigger. 
 
@@ -21,7 +20,7 @@ The *actual thing* is pretty straightforward.
 
 You know, of course, that every website, search engine, and mobile app are designed using psychological techniques to hack your brain into spending time and effort looking at them (typically so you see ads). 
 
-So the hell with that. Instead, we propose hack our own brains into spending time and effort doing the things we actually want to do. Like writing code, or learning a new language, or cooking healthily and working out using a productive training program.
+So the hell with that. Instead, we propose to *hack our own brains* into spending time and effort doing the things we actually want to do. Like writing code, or learning a new language, or cooking healthily and working out using a productive training program.
 
 Techniques that will be used include:
 - NLP (Natural Language Processing) -- large language model AIs
