@@ -14,8 +14,8 @@ The initial goal is to bootstrap a team communication application. Once that wor
 
 # Explanation
 
-Phase 1: Build a communications program that works well enough to build itself with. 
-Phase 2: Build the actual thing.
+- Phase 1: Build a communications program that works well enough to build itself with. 
+- Phase 2: Build the actual thing.
 
 The *actual thing* is pretty straightforward. 
 
