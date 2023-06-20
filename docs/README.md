@@ -12,8 +12,28 @@ The question then becomes: What are you projecting? What do you want to project?
 
 The initial goal is to bootstrap a team communication application. Once that works, we build something bigger. 
 
+# Explanation
+
+Phase 1: Build a communications program that works well enough to build itself with. 
+Phase 2: Build the actual thing.
+
+The *actual thing* is pretty straightforward. 
+
+You know, of course, that every website, search engine, and mobile app are designed using psychological techniques to hack your brain into spending time and effort looking at them (typically so you see ads). 
+
+So the hell with that. Instead, we propose hack our own brains into spending time and effort doing the things we actually want to do. Like writing code, or learning a new language, or cooking healthily and working out using a productive training program.
+
+Techniques that will be used include:
+- NLP (Natural Language Processing) -- large language model AIs
+- NLP (Neuro Linguistic Programming) -- a subset of Cognitive Behavioral Therapy, used to instill and reinforce desired habits
+- Periodic Reinforcement -- a learning method used by Anki, Duolingo, and many other sources to optimize memory retention and recall
+- Gamification -- login bonuses, streaks, all the nasty addictive tricks mobile games use, but with full disclosure as to what we're doing.
+- Encabulation -- AI models, when used, will be strictly kept away from our user data. Only well-behaved LLMs which respect user privacy are allowed.
+
+# Frequently Asked Questions (FAQ)
+
 ## Why not just use Discord or the like?
-- Discord is for degenerates.
+- Discord is infested with degenerates.
 - Existing "team communication" software doesn't respect your privacy or your freedoms.
 - We need to eat our own dogfood -- if you use your own programs, you will be motivated to make them suck less.
 
