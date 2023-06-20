@@ -29,6 +29,17 @@ Techniques that will be used include:
 - Gamification -- login bonuses, streaks, all the nasty addictive tricks mobile games use, but with full disclosure as to what we're doing.
 - Encabulation -- AI models, when used, will be strictly kept away from our user data. Only well-behaved LLMs which respect user privacy are allowed.
 
+## What Could I Do With This Program?
+- Learn a language (like Python)
+- Learn a language (like Spanish)
+- Meal prep, shopping, and cooking to meet a goal (low-carb, etc.)
+- Create and track an exercise/training program
+- Run a book club
+- Teach a class
+- Organize and track a project
+
+Most likely various plugins will be developed for these specific uses -- or maybe people will fork the project and do it that way.
+
 # Frequently Asked Questions (FAQ)
 
 ## Why not just use Discord or the like?
